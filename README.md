@@ -11,7 +11,7 @@ Asegúrese de tener instalado Node.js en su sistema antes de comenzar. Puede des
 Para comenzar a utilizar la aplicación de To-Do, siga estos pasos:
 
 1. Clone el repositorio del proyecto desde GitHub:
-$ git clone https://github.com/JesCab29/Todo-List.git
+$ git clone https://github.com/JesCab29/To-Do-App.git
 
 2. Navegue al directorio del proyecto:
 $ cd tu-repositorio
