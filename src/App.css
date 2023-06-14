@@ -1,0 +1,11 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  /* cursor: url(/barita-removebg-preview.png), auto; */
+}
+
+.card {
+  padding: 2em;
+}
